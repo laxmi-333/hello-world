@@ -34,11 +34,11 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
+   
+   <h1>No doubts!!!!</h1>
+   <p>Towards Success</p>
+   <hr>
    <h3> Thankyou, Happy Learning, Happy Creating.... </h3>
 
-   <h1>No Doubts!!!!!!</h1>
-   <p>Towards the Success</p>
-   <hr>
-  
+ 
 </form>
