@@ -35,7 +35,5 @@
    <p>Already have an account? <a href="#">Sign in</a>.</p>
  </div>
    
-   <hr>
-   <h3> Hello!!! Thankyou, Happy Learning, Happy Creating, Happy Coding, Happy Me... </h3>
  
 </form>
