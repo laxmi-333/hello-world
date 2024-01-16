@@ -35,5 +35,6 @@
    <p>Already have an account? <a href="#">Sign in</a>.</p>
  </div>
    
- 
+   <hr>
+   <h3>Happy Learning!!!!!!!!!!!!!</h3>
 </form>
