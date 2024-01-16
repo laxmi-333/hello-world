@@ -36,9 +36,9 @@
  </div>
 
    <hr>
-   <h3> Lets see...CI and CD pipeline using Kubernetes...This time success </h3>
+   <h3>Thanks Universe...I love you so so so much.. </h3>
 
    <hr>
-   <h3> Hello!!! Thankyou, Happy Learning, Happy Creating, Happy Coding, Happy Me... </h3>
+   <h3> Thanks Universe....I am execllent in CI/CD pipeline... Thank you so much.... I am so grateful </h3>
 
 </form>
