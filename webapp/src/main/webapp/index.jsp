@@ -36,6 +36,6 @@
  </div>
 
  <hr>
- <h3>Kube Testing</h3>
+ <h3>CI and CD pipeline using Kubernetes</h3>
 
 </form>
